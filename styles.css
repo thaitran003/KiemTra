@@ -1,0 +1,27 @@
+.containers{
+    min-width: 100vh;
+}
+
+.headBg{
+    height: 36px;
+    position: absolute;
+    top:0px;
+    width: 100%;
+    z-index: 1;
+}
+
+img{
+    z-index: 2;
+    position: relative;
+}
+
+.bi{
+    font-size: 30px;
+}
+.speed{
+    font-size: 100px;
+}
+
+.internet{
+    font-size: 60px;
+}
